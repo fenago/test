@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "A book on Data Wrangling and Data Mining with Python",
+  "scripts": {
+    "start": "myst start",
+    "build": "myst build --html",
+    "clean": "myst clean --all"
+  },
+  "keywords": [
+    "myst",
+    "jupyter-book",
+    "documentation"
+  ],
+  "author": "Professor Carlos Marquez and Dr. Ernesto Lee",
+  "license": "MIT",
+  "devDependencies": {
+    "mystmd": "^1.0.0"
+  }
+}
